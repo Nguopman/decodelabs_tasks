@@ -6,6 +6,9 @@
 ## Overview
 Welcome to Project 3 of the DecodeLabs Cybersecurity Internship. With **80% of security breaches involving phishing**, technical firewalls alone cannot compensate for human error[cite: 3]. This project establishes a structured Phishing Triage Toolkit and automated analyzer to parse email headers, detect psychological triggers, and categorize threats before enterprise impact occurs.
 
+<img width="1918" height="911" alt="Screenshot_2026-09-01_13_21_46" src="https://github.com/user-attachments/assets/8e029f58-9332-4060-b6d2-525ee863be44" />
+
+
 ## Key Threat Taxonomy & Red Flags
 - **Display Name & Header Spoofing:** Mismatch between the trusted friendly name and the underlying routing domain[cite: 3].
 - **Typosquatting & Homoglyphs:** Subtle character substitutions (e.g., Cyrillic characters or misspelled brand domains like `amaz0n.com`)[cite: 3].
