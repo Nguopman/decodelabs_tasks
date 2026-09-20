@@ -1,11 +1,4 @@
- ---
-
-### Step 3: Project 4 `README.md`
-
-Create `Project 4/README.md`:
-
-```markdown
-# Project 4: System Vulnerability Checklist & Hardening Audit 
+# Project 4: System Vulnerability Checklist & Hardening Audit 🛡️
 
 **Track:** Junior Analyst // DecodeLabs Industrial Kit (Batch 2026)  
 **Phase:** Audited Systems & Blue Team Defensive Architecture
@@ -18,6 +11,3 @@ Project 4 serves as the capstone assessment for the DecodeLabs Cybersecurity Int
 2. **Software Decay & Patch Management:** Mitigating software decay by auditing out-of-date packages and security advisories.
 3. **Auditing the Human Perimeter:** Disabling guest accounts, eliminating privilege creep, and checking local hygiene.
 4. **Network and Endpoint Hygiene:** Enforcing inbound host firewall rules (`ufw`) and verifying disk integrity.
-
-## Deliverables
-- [`vulnerability_report.md`](./vulnerability_report.md): Formal 1-page vulnerability assessment documenting discovered flaws, CVSS 4.0 severity scoring, remediation steps, and hardened terminal verification.   what is it? where to place
